@@ -1,0 +1,56 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombreDepartamento": "Informatica",
+      "nombreEncargado": "Harold Nogales",
+      "numeroEmpleados": 6
+    },
+    {
+      "nombreDepartamento": "finanzas",
+      "nombreEncargado": "Ramiro Soliz",
+      "numeroEmpleados": 3,
+      "id": 2
+    },
+    {
+      "nombreDepartamento": "relaciones publicas",
+      "nombreEncargado": "Harold Perez",
+      "numeroEmpleados": 3,
+      "id": 3
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "tipoActivo": "computadoraaa",
+      "marca": "HP",
+      "modelo": "pavilon 360",
+      "estado": "Usado",
+      "areaId": 1
+    },
+    {
+      "tipoActivo": "mouse",
+      "marca": "dell",
+      "modelo": "72654",
+      "estado": "Usado",
+      "areaId": 1,
+      "id": 2
+    },
+    {
+      "tipoActivo": "monitor",
+      "marca": "sansumg",
+      "modelo": "tr-234",
+      "estado": "Nuevo",
+      "areaId": 1,
+      "id": 3
+    },
+    {
+      "tipoActivo": "marca texto",
+      "marca": "sabonis",
+      "modelo": "verde",
+      "estado": "Desuso",
+      "areaId": 2,
+      "id": 4
+    }
+  ]
+}
